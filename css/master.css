@@ -1073,7 +1073,7 @@ body::-webkit-scrollbar-thumb:hover {
   transition: 0.03s;
 }
 .plans-page .green .button:hover {
-  background-color: var(--green-color);
+  background-color: green;
 }
 .plans-page .blue .top {
   background-color: var(--blue-color);
