@@ -1067,7 +1067,7 @@ body::-webkit-scrollbar-thumb:hover {
   outline: 3px solid var(--green-color);
 }
 .plans-page .green button:hover {
-  background-color: var(--green-color);
+  background-color: inherit;
 }
 .plans-page .blue .top {
   background-color: var(--blue-color);
